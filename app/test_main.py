@@ -15,7 +15,7 @@ from app.main import get_human_age
         (100, 100, [21, 17]),
         # різні значення
         (28, 25, [3, 2]),
-        (25, 28, [2, 3]),
+        (25, 28, [2, 2]),
     ],
 )
 def test_get_human_age(
